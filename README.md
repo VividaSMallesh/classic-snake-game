@@ -1,6 +1,6 @@
 # 🐍 Classic Snake Game
 
-A simple browser-based Snake game built with HTML, CSS, and JavaScript.
+A simple Snake game built with Python and Pygame.
 
 ## 🎮 How to Play
 - Use the **arrow keys** to control the snake's direction.
@@ -12,13 +12,18 @@ A simple browser-based Snake game built with HTML, CSS, and JavaScript.
 ```bash
    git clone https://github.com/VividaSMallesh/classic-snake-game.git
 ```
-2. Open the project folder in VS Code (or any editor).
-3. Open `index.html` in your browser — that's it, no installation needed!
+2. Install Pygame (if not already installed):
+```bash
+   pip install pygame
+```
+3. Run the game:
+```bash
+   python snake_game.py
+```
 
 ## 🛠️ Built With
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- Python 3
+- Pygame
 
 ## 📌 Status
 This is a personal/practice project built for fun and learning purposes.
